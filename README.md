@@ -1,39 +1,37 @@
-# sv
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+# Pokemon SearchWebsite
 
-## Creating a project
+My first website in Sveltekit, the purpose of this website is simply to fetch data from the Pokemon API.
 
-If you're seeing this, you've probably already done this step. Congrats!
 
-```bash
-# create a new project in the current directory
-npx sv create
+## Authors
 
-# create a new project in my-app
-npx sv create my-app
-```
+- [@TomasMusi](https://github.com/TomasMusi)
 
-## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
-```bash
-npm run dev
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+## Documentation
 
-## Building
+- [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) 
+- [PokéApi](https://pokeapi.co/docs/v2)
+- [Error Page](https://svelte.dev/docs/kit/errors)
 
-To create a production version of your app:
 
-```bash
-npm run build
-```
 
-You can preview the production build with `npm run preview`.
+## 🛠 Skills
+HTML, Tailwindcss, Sveltekit, Typescript
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
-# PokemonSearch_Website
+## Lessons Learned
+
+What did you learn while building this project? Thanks to this project I learned how Error pages work, and learned the layout of folders in SvelteKit.
+
+
+## Screenshot
+
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at tomas.musilmt@gmail.com
+
