@@ -1,5 +1,5 @@
 
-# Pokemon SearchWebsite
+# Pokemon Search Website
 
 My first website in Sveltekit, the purpose of this website is simply to fetch data from the Pokemon API.
 
