@@ -24,7 +24,7 @@ HTML, Tailwindcss, Sveltekit, Typescript
 
 ## Lessons Learned
 
-What did you learn while building this project? Thanks to this project I learned how Error pages work, and learned the layout of folders in SvelteKit.
+What did you learn while building this project? Thanks to this project I learned how Error pages work,learned the layout of folders in SvelteKit, and $Page.params.
 
 
 ## Screenshot
