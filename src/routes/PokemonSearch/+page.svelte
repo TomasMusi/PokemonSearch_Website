@@ -19,7 +19,7 @@
 			const response = await fetch(`https://pokeapi.co/api/v2/pokemon/${URL.toLowerCase()}`);
 			const data = await response.json();
 
-			if (data === undefined) {
+			if (typeof data === "undefined") {
 				console.log('Chyba');
 			} else {
 				pokemon = {
